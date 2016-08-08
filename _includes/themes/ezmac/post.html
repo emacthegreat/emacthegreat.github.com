@@ -1,3 +1,80 @@
+<header class="hero-image" role="banner" style="background-image: url({{ post.image }});">
+  <span class="menu-trigger animated fadeInDown">
+    <span class="bar"></span>
+    <span class="bar"></span>
+    <span class="bar"></span>
+  </span>
+  <div id="menu-target">
+    <ul>
+      {% assign pages_list = site.pages %}
+      {% assign group = 'navigation' %}
+      {% include JB/pages_list %}
+    </ul>
+  </div>
+</header>
+
+<main class="container">
+  <div class="row">
+    <div class="col-xs-12 single-content">
+        <p class="meta">
+            <a class="" href="category.html">Elyssa Macfarlane</a> <i class="link-spacer"></i> <i class="fa fa-bookmark"></i> {{ post.date | date_to_string }}
+        </p>
+
+        <h1>{{ post.title }}</h1>
+
+        {{ content }}
+    </div><!-- main-content/col -->
+  </div> <!--/row -->
+
+</main> <!-- /container -->
+
+<footer class="single">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-2">
+        <img src="img/profile-emac.jpg" class="user-icon " alt="user-image">
+      </div>
+      <div class="col-xs-12 col-sm-6">
+        <div class="category-list">
+          <p>Published <span>{{ post.date | date_to_string }}</span></p>
+          <p><a href="#">Elyssa Macfarlane</a></p>
+
+          <div class="other-catergories">
+              <h3>Read</h3>
+              <ul>
+                  <li><a href="/">more articles</a></li>
+              </ul>
+          </div>
+        </div>
+      </div><!-- end col -->
+      <div class="col-xs-12 col-sm-4">
+        <div class="social">
+          <p>Share this article</a>
+          <div class="social-links">
+            <a class="social-icon" href="#" data-platform="twitter" data-message="Message about this post" data-url="http://writertheme.com/post"><i class="fa fa-twitter"></i></a>
+
+            <a class="social-icon" href="#" data-platform="facebook" data-message="Message about this post" data-url="http://writertheme.com/post"><i class="fa fa-facebook-official"></i></a>
+
+            <a class="social-icon" data-platform="mail"  href="mailto:support@writertheme.com"><i class="fa fa-envelope"></i></a>
+          </div>
+        </div>
+      </div>
+    </div><!-- end row -->
+  </div>
+
+  <div class="row read-another-section">
+    {% for post in site.posts %}
+      <a href="{{ BASE_PATH }}{{ post.url }}"><div class="col-sm-6 col-md-2 no-gutter read-another-container">
+        <div class="overlay"></div>
+        <img src="{{ post.image }}">
+        <h3 class="read-another">{{ post.title }}</h3>
+      </div></a>
+    {% endfor %}
+  </div>
+</footer>
+
+
+
 <div class="page-header">
   <h1>{{ page.title }} {% if page.tagline %}<small>{{page.tagline}}</small>{% endif %}</h1>
 </div>
@@ -17,7 +94,7 @@
       {% assign categories_list = page.categories %}
       {% include JB/categories_list %}
     </ul>
-  {% endunless %}  
+  {% endunless %}
 
   {% unless page.tags == empty %}
     <ul class="tag_box inline">
@@ -25,8 +102,8 @@
       {% assign tags_list = page.tags %}
       {% include JB/tags_list %}
     </ul>
-  {% endunless %}  
-  
+  {% endunless %}
+
     <hr>
     <ul class="pagination">
     {% if page.previous %}
