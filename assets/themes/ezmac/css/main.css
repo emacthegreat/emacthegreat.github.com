@@ -1874,7 +1874,8 @@ form input[type=submit]:hover {
 }
 /* line 60, ../sass/_nojs.sass */
 .no-js .site-info {
-  padding: 0 15px 0 15px;
+  padding: 0 15px 15px 15px;
+  background: rgba(0,0,0,0.8);
 }
 @media (min-width: 768px) {
   /* line 60, ../sass/_nojs.sass */
