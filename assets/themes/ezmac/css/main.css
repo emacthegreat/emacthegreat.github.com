@@ -1190,6 +1190,8 @@ ol li {
   margin-bottom: 30px;
   color: #fff;
   font-size: 30px;
+  padding-left: 8%;
+  padding-right: 8%;
 }
 .hero-image h1 .floating-title {
   padding: 5px 3px;
@@ -1211,6 +1213,8 @@ ol li {
     margin-bottom: 20px;
     color: #fff;
     font-size: 40px;
+    padding-right: 14%;
+    padding-left: 14%;
   }
 }
 @media (min-width: 1200px) {
@@ -1223,6 +1227,8 @@ ol li {
     margin-bottom: 30px;
     color: #fff;
     font-size: 50px;
+    padding-right: 18%;
+    padding-left: 18%;
   }
 }
 
