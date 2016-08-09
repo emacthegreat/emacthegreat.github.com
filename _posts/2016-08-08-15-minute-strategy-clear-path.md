@@ -1,7 +1,7 @@
 ---
 layout: post
 category: lessons
-title: 15-Minute Thoughts: Strategy for a Clear Path
+title: "15-Minute Thoughts: Strategy for a Clear Path"
 tagline: "Supporting tagline"
 tags: [intro, beginner, jekyll, tutorial]
 ---
