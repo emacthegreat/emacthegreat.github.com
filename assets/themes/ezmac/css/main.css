@@ -1192,9 +1192,10 @@ ol li {
   font-size: 30px;
   padding-left: 8%;
   padding-right: 8%;
+  line-height: 1.3;
 }
 .hero-image h1 .floating-title {
-  padding: 5px 3px;
+  padding: 1px 3px;
   background: rgba(0,0,0,0.8);
 }
 @media (min-width: 768px) {
