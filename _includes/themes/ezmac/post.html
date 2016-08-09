@@ -11,7 +11,13 @@
       {% include JB/pages_list %}
     </ul>
   </div>
-  <h1>{{ page.title }}</h1>
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 single-content">
+        <h1>{{ page.title }}</h1>
+      </div>
+    </div>
+  </div>
 </header>
 
 <main class="container">
@@ -20,6 +26,7 @@
         <p class="meta">
           <a class="/about.html" href="category.html">Elyssa Macfarlane</a> <i class="link-spacer"></i> <i class="fa fa-bookmark"></i> {{ page.date | date_to_string }}
         </p>
+        <h1 class="visible-sm visible-xs">{{ page.title }}</h1>
 
         {{ content }}
 
