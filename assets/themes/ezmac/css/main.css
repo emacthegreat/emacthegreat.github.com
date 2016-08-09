@@ -1197,6 +1197,11 @@ ol li {
   }
 }
 
+.hero-image .floating-title {
+  padding: 5px 3px;
+  background: rgba(0,0,0,0.8);
+}
+
 /* line 16, ../sass/partials/_single.sass */
 .meta {
   *zoom: 1;

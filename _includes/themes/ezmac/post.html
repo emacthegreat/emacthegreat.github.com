@@ -1,4 +1,4 @@
-<header class="hero-image" role="banner" style="background-image: url(/img/posts/{{ page.image }});">
+<header class="hero-image" role="banner" style="position: relative; background-image: url(/img/posts/{{ page.image }});">
   <span class="menu-trigger animated fadeInDown">
     <span class="bar"></span>
     <span class="bar"></span>
@@ -11,10 +11,10 @@
       {% include JB/pages_list %}
     </ul>
   </div>
-  <div class="container">
+  <div class="container hidden-xs" style="position: absolute; bottom: 0">
     <div class="row">
-      <div class="col-xs-12 single-content">
-        <h1>{{ page.title }}</h1>
+      <div class="col-xs-12">
+        <h1 class="floating-title">{{ page.title }}</h1>
       </div>
     </div>
   </div>
@@ -26,7 +26,7 @@
         <p class="meta">
           <a class="/about.html" href="category.html">Elyssa Macfarlane</a> <i class="link-spacer"></i> <i class="fa fa-bookmark"></i> {{ page.date | date_to_string }}
         </p>
-        <h1 class="visible-sm visible-xs">{{ page.title }}</h1>
+        <h1 class="visible-xs">{{ page.title }}</h1>
 
         {{ content }}
 
