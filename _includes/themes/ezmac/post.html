@@ -1,4 +1,4 @@
-<header class="hero-image" role="banner" style="background-image: url(/img/posts/{{ post.image }});">
+<header class="hero-image" role="banner" style="background-image: url(/img/posts/{{ page.image }});">
   <span class="menu-trigger animated fadeInDown">
     <span class="bar"></span>
     <span class="bar"></span>
@@ -34,12 +34,12 @@
   <div class="container">
     <div class="row">
       <div class="col-xs-12 col-sm-2">
-        <img src="img/profile-emac.jpg" class="user-icon " alt="user-image">
+        <img src="/img/profile-emac.jpg" class="user-icon " alt="user-image">
       </div>
       <div class="col-xs-12 col-sm-6">
         <div class="category-list">
           <p>Published <span>{{ page.date | date_to_string }}</span></p>
-          <p><a href="#">Elyssa Macfarlane</a></p>
+          <p><a href="/about.html">Elyssa Macfarlane</a></p>
 
           <div class="other-catergories">
               <h3>Read</h3>
@@ -68,7 +68,7 @@
     {% for post in site.posts %}
       <a href="{{ BASE_PATH }}{{ post.url }}"><div class="col-sm-6 col-md-2 no-gutter read-another-container">
         <div class="overlay"></div>
-        <img src="{{ post.image }}">
+        <img src="/img/posts/{{ post.image }}">
         <h3 class="read-another">{{ post.title }}</h3>
       </div></a>
     {% endfor %}
