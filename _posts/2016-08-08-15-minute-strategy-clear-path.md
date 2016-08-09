@@ -4,12 +4,13 @@ category: lessons
 title: "15-Minute Thoughts: Strategy for a Clear Path"
 tagline: "Supporting tagline"
 tags: [intro, beginner, jekyll, tutorial]
+image: "default.jpg"
 ---
 I was a teenager when I entered my first paid job in politics. It was a junior role in a municipal campaign where I was maintaining data lists and making cold calls for fundraising. In the political realm, it entailed pretty mundane responsibilities, but it was still better than most of the jobs my friends were working outside of politics.
 
 It was here that I vividly remember being told by someone that the best thing I could do in that role was make other people see me as a resource. Generic- maybe, but in retrospect it wasn’t bad advice.
 
-I see the words through a different lense now that I’m older and much more jaded. I wanted to take a moment to pay homage to the role these words have played in my professional (and otherwise) life.
+I see the words through a different lens now that I’m older and much more jaded. I wanted to take a moment to pay homage to the role these words have played in my professional (and otherwise) life.
 
 Realistically, if you‘re around my age, it is highly likely that you don’t know what you’re talking about.
 

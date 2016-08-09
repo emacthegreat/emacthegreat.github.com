@@ -4,6 +4,7 @@ category: lessons
 title: "Jekyll Intro"
 tagline: "Supporting tagline"
 tags: [intro, beginner, jekyll, tutorial]
+image: "default.jpg"
 ---
 {% include JB/setup %}
 
