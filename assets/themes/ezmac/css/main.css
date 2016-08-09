@@ -954,8 +954,9 @@ ol li {
 }
 /* line 23, ../sass/partials/_sidebar.sass */
 .sidebar .site-info {
-  padding: 90px 15px 0 15px;
+  padding: 90px 15px 15px 15px;
   color: #fafafa;
+  background: rgba(0,0,0,0.8);
 }
 @media (min-width: 768px) {
   /* line 23, ../sass/partials/_sidebar.sass */

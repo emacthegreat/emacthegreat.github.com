@@ -3,7 +3,6 @@ layout: post
 category: lessons
 tagline: "Supporting tagline"
 tags: [intro, beginner, jekyll, tutorial]
-main_image: "/img/posts/default.jpg"
 ---
 {% include JB/setup %}
 
