@@ -1149,6 +1149,7 @@ ol li {
   font-family: "Droid Serif", serif;
   font-size: 16px;
   font-size: 1.6rem;
+  margin-bottom: 10px;
 }
 @media (min-width: 992px) {
   /* line 52, ../sass/partials/_main-content.sass */
@@ -1273,8 +1274,8 @@ ol li {
 /* line 16, ../sass/partials/_single.sass */
 .meta {
   *zoom: 1;
-  font-size: 12px;
-  font-size: 1.2rem;
+  font-size: 12px !important;
+  font-size: 1.2rem !important;
   margin-bottom: 0;
 }
 /* line 30, ../sass/_mixins.sass */
