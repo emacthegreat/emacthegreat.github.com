@@ -11,6 +11,7 @@ tagline: Supporting tagline
     <a href="/archive.html" class="select-categories">Archive</a>
 </div>
 <div class="home-page-posts animated fadeIn ">
+  <h2 class="favorites">Recent Posts</h2>
   {% for post in site.posts %}
     <article class="post">
       <div class="post-preview col-xs-10  no-gutter">
