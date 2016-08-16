@@ -104,9 +104,10 @@ h2.page-subheader {
 h1 .floating-title, h2 .floating-title {
   padding: 1px 3px;
   background: rgba(0,0,0,0.8);
-  color: 'white';
+  color: #FFFFFF;
+  line-height: 1.3;
 }
-@media (min-width: 768px) {
+@media (min-width: 0px) {
   h1.page-header {
     font-size: 29px;
   }
