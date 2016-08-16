@@ -1274,8 +1274,8 @@ ol li {
 /* line 16, ../sass/partials/_single.sass */
 .meta {
   *zoom: 1;
-  font-size: 12px !important;
-  font-size: 1.2rem !important;
+  font-size: 13px !important;
+  font-size: 1.4rem !important;
   margin-bottom: 0;
 }
 /* line 30, ../sass/_mixins.sass */
