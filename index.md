@@ -6,10 +6,6 @@ tagline: Supporting tagline
 {% include JB/setup %}
 
 
-<div class="sub-nav">
-    <a href="/" class="select-posts active">Latest</a>
-    <a href="/archive.html" class="select-categories">Archive</a>
-</div>
 <div class="home-page-posts animated fadeIn ">
   <h2 class="favorites">Recent Posts</h2>
   {% for post in site.posts %}
