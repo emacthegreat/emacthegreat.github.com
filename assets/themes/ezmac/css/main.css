@@ -1130,8 +1130,8 @@ ol li {
 @media (min-width: 992px) {
   /* line 38, ../sass/partials/_main-content.sass */
   .post .post-preview h2 {
-    font-size: 32px;
-    font-size: 3.2rem;
+    font-size: 24px;
+    font-size: 2.6rem;
   }
 }
 /* line 45, ../sass/partials/_main-content.sass */
@@ -1153,8 +1153,10 @@ ol li {
 @media (min-width: 992px) {
   /* line 52, ../sass/partials/_main-content.sass */
   .post .post-preview p {
-    font-size: 18px;
-    font-size: 1.8rem;
+    font-size: 16px;
+    font-size: 1.6rem;
+    line-height: 22px;
+    line-height: 2.2rem;
   }
 }
 /* line 60, ../sass/partials/_main-content.sass */
