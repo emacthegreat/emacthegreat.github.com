@@ -22,10 +22,6 @@ tagline: Supporting tagline
             <a href="author.html">Elyssa Macfarlane</a> <i class="link-spacer"></i> <i class="fa fa-bookmark"></i> {{ post.date | date_to_string }}
         </p>
       </div>
-
-      <div class="col-xs-2 no-gutter">
-        <img src="img/profile-emac.jpg" class="user-icon" alt="user-image">
-      </div>
     </article>
   {% endfor %}
 </div>
