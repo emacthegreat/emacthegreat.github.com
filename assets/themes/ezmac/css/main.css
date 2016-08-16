@@ -101,6 +101,10 @@ h2.page-subheader {
   font-family: 'Trocchi', "Source Sans Pro", serif;
   margin-bottom: 2em;
 }
+h1 .floating-title, h2 .floating-title {
+  padding: 1px 3px;
+  background: rgba(0,0,0,0.8);
+}
 @media (min-width: 768px) {
   h1.page-header {
     font-size: 29px;
