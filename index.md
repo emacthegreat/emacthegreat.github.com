@@ -5,7 +5,7 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-<h1 class="page-header">Meditations on Power and Conflict</h1>
+<h1 class="page-header">Meditations on Media</h1>
 <img src="img/profile-emac.jpg" class="user-icon pull-right" alt="user-image">
 <h2 class="page-subheader">Writing by Elyssa Macfarlane</h2>
 
