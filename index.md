@@ -5,7 +5,7 @@ tagline: Supporting tagline
 ---
 {% include JB/setup %}
 
-<h1 class="page-header"><img src="img/logo.png" class="user-icon pull-right img-responsive" alt="user-image"></h1>
+<h1 class="page-header"><img src="img/logo.png" class="img-responsive" alt="user-image"></h1>
 
 
 <div class="home-page-posts animated fadeIn ">
