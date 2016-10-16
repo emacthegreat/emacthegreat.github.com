@@ -58,7 +58,7 @@ a:hover, a:active {
 
 /* line 50, ../sass/_type.sass */
 h1 {
-  font-family: 'Trocchi', "Source Sans Pro", serif;
+  font-family: 'Montserrat', "Source Sans Pro", serif;
 }
 h2 {
   font-weight: 700;
@@ -94,12 +94,12 @@ h3 {
 }
 
 h1.page-header {
-  font-family: 'Trocchi', "Source Sans Pro", serif;
+  font-family: 'Montserrat', "Source Sans Pro", serif;
   margin-bottom: 0.2em;
   border-bottom: none;
 }
 h2.page-subheader {
-  font-family: 'Trocchi', "Source Sans Pro", serif;
+  font-family: 'Montserrat', "Source Sans Pro", serif;
   margin-bottom: 2em;
 }
 @media (min-width: 0px) {
