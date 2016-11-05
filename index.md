@@ -7,6 +7,8 @@ tagline: Supporting tagline
 
 <h1 class="page-header text-center"><img src="img/logo.png" alt="user-image"></h1>
 
+<img class="img-responsive visible-xs-block visible-sm-block hidden-md hidden-lg hidden-xl" src="img/default-sidebar.jpg" />
+
 
 <div class="home-page-posts animated fadeIn ">
   <h2 class="favorites">Recent Posts</h2>
