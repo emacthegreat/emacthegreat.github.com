@@ -7,7 +7,7 @@ tagline: Supporting tagline
 
 <h1 class="page-header text-center"><img src="img/logo.png" alt="user-image"></h1>
 
-<img class="img-responsive visible-xs-block visible-sm-block hidden-md hidden-lg hidden-xl" src="img/default-sidebar.jpg" style="margin-top: 20px" />
+<img class="img-responsive visible-xs-block visible-sm-block hidden-md hidden-lg hidden-xl" src="img/sidebar-coffee.jpg" style="margin-top: 20px" />
 
 
 <div class="home-page-posts animated fadeIn ">
