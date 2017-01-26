@@ -11,7 +11,13 @@ tagline: Supporting tagline
 
 
 <div class="home-page-posts animated fadeIn ">
-  <h2 class="favorites">Recent Posts</h2>
+  <footer class="split-footer">
+      <a href="/">Latest Posts</a>
+      <i class="link-spacer"></i>
+      <a href="/about.html">About</a>
+      <i class="link-spacer"></i>
+      <a href="/readinglist.html">Reading List</a>
+  </footer>
   {% for post in site.posts %}
     <article class="post">
       <div class="post-preview col-xs-10  no-gutter">
