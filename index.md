@@ -10,7 +10,7 @@ tagline: Supporting tagline
 <img class="img-responsive visible-xs-block visible-sm-block hidden-md hidden-lg hidden-xl" src="img/sidebar-coffee.jpg" style="margin-top: 20px" />
 
 
-<div class="home-page-posts animated fadeIn ">
+<div class="home-page-posts animated fadeIn" style="border-top: rgb(245,245,245) solid 1px;">
   <footer class="split-footer">
       <a href="/">Latest Posts</a>
       <i class="link-spacer"></i>
