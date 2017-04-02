@@ -1,0 +1,82 @@
+<header class="hero-image" role="banner" style="position: relative; background-image: url(/img/posts/{{ page.image }});">
+  <span class="menu-trigger animated fadeInDown">
+    <span class="bar"></span>
+    <span class="bar"></span>
+    <span class="bar"></span>
+  </span>
+  <div id="menu-target">
+    <ul>
+      {% assign pages_list = site.pages %}
+      {% assign group = 'navigation' %}
+      {% include JB/pages_list %}
+    </ul>
+  </div>
+  <div class="container hidden-xs floating-container">
+    <div class="row">
+      <div class="col-xs-12" style="padding: 0">
+        <h1><span class="floating-title">{{ page.title }}</span></h1>
+      </div>
+    </div>
+  </div>
+</header>
+
+<main class="container">
+  <div class="row">
+    <div class="col-xs-12 single-content">
+        <p class="meta">
+          <a href="/about.html">Elyssa Macfarlane</a> <i class="link-spacer"></i> <i class="fa fa-bookmark"></i> {{ page.date | date_to_string }}
+        </p>
+        <h1 class="visible-xs">{{ page.title }}</h1>
+
+        {{ content }}
+
+        {% include JB/comments %}
+    </div><!-- main-content/col -->
+  </div> <!--/row -->
+
+</main> <!-- /container -->
+
+<footer class="single">
+  <div class="container">
+    <div class="row">
+      <div class="col-xs-12 col-sm-2">
+        <img src="/img/profile-emac.jpg" class="user-icon " alt="user-image">
+      </div>
+      <div class="col-xs-12 col-sm-6">
+        <div class="category-list">
+          <p>Published <span>{{ page.date | date_to_string }}</span></p>
+          <p><a href="/about.html">Elyssa Macfarlane</a></p>
+
+          <div class="other-catergories">
+              <h3>Read</h3>
+              <ul>
+                  <li><a href="/">more articles</a></li>
+              </ul>
+          </div>
+        </div>
+      </div><!-- end col -->
+      <div class="col-xs-12 col-sm-4">
+        <div class="social">
+          <p>Share this article</a>
+          <div class="social-links">
+            <a class="social-icon" href="#" data-platform="twitter" data-message="Message about this post" data-url="http://writertheme.com/post"><i class="fa fa-twitter"></i></a>
+
+            <a class="social-icon" href="#" data-platform="facebook" data-message="Message about this post" data-url="http://writertheme.com/post"><i class="fa fa-facebook-official"></i></a>
+
+            <a class="social-icon" data-platform="mail"  href="mailto:support@writertheme.com"><i class="fa fa-envelope"></i></a>
+          </div>
+        </div>
+      </div>
+    </div><!-- end row -->
+  </div>
+
+  <div class="row read-another-section">
+    {% for post in site.posts %}
+      <a href="{{ BASE_PATH }}{{ post.url }}"><div class="col-sm-6 col-md-2 no-gutter read-another-container">
+        <div class="overlay"></div>
+        <img src="/img/posts/{{ post.image }}">
+        <h3 class="read-another">{{ post.title }}</h3>
+      </div></a>
+    {% endfor %}
+  </div>
+</footer>
