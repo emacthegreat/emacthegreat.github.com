@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Elyssa Macfarlane | Media Manipulation
+layout: default
+title: Meditations on Tech | Interesting people in tech worldwide
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
