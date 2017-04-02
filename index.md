@@ -7,13 +7,13 @@ tagline: Supporting tagline
 
 <div class="ruby-page-wrap row clearfix is-masonry tn-container no-sidebar">
   <div class="ruby-content-wrap col-xs-12">
-    <div class="main-content-inner">\
+    <div class="main-content-inner">
     {% for post in site.posts %}
       <div class="grid-layout-outer col-sm-6 col-xs-12 masonry-el" data-cols="2">
         <article class="post-wrap grid-layout clearfix tn-animated-image tn-zoom tn-animation">
           <div class="thumb-wrap post-el">
             <a href="{{ BASE_PATH }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">
-              <img alt="{{ post.title }}" class="attachment-tn_medium_grid size-tn_medium_grid wp-post-image" height="267" width="400" sizes="(max-width: 400px) 100vw, 400px" src="{{ post.image }}">
+              <img alt="{{ post.title }}" class="attachment-tn_medium_grid size-tn_medium_grid wp-post-image" height="267" width="400" sizes="(max-width: 400px) 100vw, 400px" src="{{ BASE_PATH }}img/posts/{{ post.image }}">
             </a>
           </div>
           <div class="post-inner grid-inner">
