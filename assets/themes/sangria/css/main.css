@@ -4582,3 +4582,63 @@ input[type="submit"] {
     font-size: 60px
 }
 
+
+
+
+
+
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Lato
+}
+.tn-container {
+    max-width: 1080px
+}
+.header-wrap.header-background-color {
+    background-color: #fff
+}
+header .header-parallax-wrap {
+    height: 350px
+}
+header #header-image-parallax {
+    height: 500px;
+    !important
+}
+@media only screen and (max-width: 992px) and (min-width: 768px) {
+    header .header-parallax-wrap {
+        height: 280px
+    }
+    header #header-image-parallax {
+        height: 430px;
+        !important
+    }
+}
+@media only screen and (max-width: 767px) {
+    header .header-parallax-wrap {
+        height: 200px
+    }
+    header #header-image-parallax {
+        height: 350px;
+        !important
+    }
+}
+.read-more-wrap a {
+    white-space: nowrap
+}
+.entry h3,
+.entry h4,
+.entry h5 {
+    text-transform: capitalize
+}
+@media only screen and (max-width: 991px) {
+    .left-sidebar #main {
+        float: none
+    }
+}
+
