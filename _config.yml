@@ -8,13 +8,14 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Elyssa Macfarlane
-tagline: Meditations on Media
+title : Meditations on Tech
+tagline: Meditations on Tech
 author :
   name : Elyssa Macfarlane
   email : elyssa.macfarlane@gmail.com
   github : emacthegreat
-  twitter : elyssamacf
+  twitter : meditationsontech
+  instagram : meditationsontech
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
@@ -24,7 +25,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://www.elyssamac.com
+production_url : http://www.meditationsontech.com
 
 gems: ["jekyll-sitemap"]
 
