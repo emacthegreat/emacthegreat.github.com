@@ -5,7 +5,7 @@
         {% if page.image %}
         <div class="thumb-wrap post-el">
           <a href="{{ BASE_PATH }}" rel="bookmark" title="{{page.title}}">
-            <img alt="{{page.title}}" class="attachment-tn_classic size-tn_classic wp-post-image" src="{{{ BASE_PATH }}img/{page.image}}">
+            <img alt="{{page.title}}" class="attachment-tn_classic size-tn_classic wp-post-image" src="{{ BASE_PATH }}img/{{page.image}}">
           </a>
         </div>
         {% endif %}
