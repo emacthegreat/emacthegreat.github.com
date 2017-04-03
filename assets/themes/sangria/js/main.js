@@ -8,7 +8,8 @@ $(document).ready(function() {
       limit: 7,
       resolution: 'thumbnail',
       template: '<div class="footer-instagram-el tn-col-7">' +
-                '<a class="footer-instagram-link cursor-zoom" href="{{link}}"><img alt="{{post.title}}" '+ 'src="{{image}}"></a>'+
+                '<a class="footer-instagram-link cursor-zoom" href="{{link}}" target="_blank">' +
+                '<img alt="{{post.title}}" '+ 'src="{{image}}"></a>'+
               '</div>'
   });
   feed.run();
