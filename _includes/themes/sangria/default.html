@@ -121,42 +121,8 @@
                 <h3>Follow @ Instagram</h3>
               </div>
             </div>
-            <div class="instagram-content-wrap row">
-              {% for post in site.posts %}
-              <div class="footer-instagram-el tn-col-7">
-                <a class="footer-instagram-link cursor-zoom" href="{{ BASE_PATH }}{{ post.url }}"><img alt="{{post.title}}" src="/img/posts/{{ post.image }}"></a>
-              </div>
-              {% endfor %}
-              {% for post in site.posts %}
-              <div class="footer-instagram-el tn-col-7">
-                <a class="footer-instagram-link cursor-zoom" href="{{ BASE_PATH }}{{ post.url }}"><img alt="{{post.title}}" src="/img/posts/{{ post.image }}"></a>
-              </div>
-              {% endfor %}
-              {% for post in site.posts %}
-              <div class="footer-instagram-el tn-col-7">
-                <a class="footer-instagram-link cursor-zoom" href="{{ BASE_PATH }}{{ post.url }}"><img alt="{{post.title}}" src="/img/posts/{{ post.image }}"></a>
-              </div>
-              {% endfor %}
-              {% for post in site.posts %}
-              <div class="footer-instagram-el tn-col-7">
-                <a class="footer-instagram-link cursor-zoom" href="{{ BASE_PATH }}{{ post.url }}"><img alt="{{post.title}}" src="/img/posts/{{ post.image }}"></a>
-              </div>
-              {% endfor %}
-              {% for post in site.posts %}
-              <div class="footer-instagram-el tn-col-7">
-                <a class="footer-instagram-link cursor-zoom" href="{{ BASE_PATH }}{{ post.url }}"><img alt="{{post.title}}" src="/img/posts/{{ post.image }}"></a>
-              </div>
-              {% endfor %}
-              {% for post in site.posts %}
-              <div class="footer-instagram-el tn-col-7">
-                <a class="footer-instagram-link cursor-zoom" href="{{ BASE_PATH }}{{ post.url }}"><img alt="{{post.title}}" src="/img/posts/{{ post.image }}"></a>
-              </div>
-              {% endfor %}
-              {% for post in site.posts %}
-              <div class="footer-instagram-el tn-col-7">
-                <a class="footer-instagram-link cursor-zoom" href="{{ BASE_PATH }}{{ post.url }}"><img alt="{{post.title}}" src="/img/posts/{{ post.image }}"></a>
-              </div>
-              {% endfor %}
+            <div class="instagram-content-wrap row" id="instafeed">
+              <!-- Instafeed goes here -->
             </div>
           </aside>
         </div>
@@ -179,9 +145,8 @@
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.min.js"><\/script>')</script>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js"></script>
-    <script src="{{ ASSET_PATH }}/js/jquery.jpanelmenu.min.js"></script>
     <script src="{{ ASSET_PATH }}/js/bootstrap.min.js"></script>
+    <script src="{{ ASSET_PATH }}/js/instafeed.min.js"></script>
 
     <script src="{{ ASSET_PATH }}/js/main.js"></script>
   </body>
