@@ -4608,27 +4608,27 @@ h6 {
     background-color: #fff
 }
 header .header-parallax-wrap {
-    height: 350px
+    height: 200px
 }
 header #header-image-parallax {
-    height: 500px;
+    height: 200px;
     !important
 }
 @media only screen and (max-width: 992px) and (min-width: 768px) {
     header .header-parallax-wrap {
-        height: 280px
+        height: 200px
     }
     header #header-image-parallax {
-        height: 430px;
+        height: 200px;
         !important
     }
 }
 @media only screen and (max-width: 767px) {
     header .header-parallax-wrap {
-        height: 200px
+        height: 170px
     }
     header #header-image-parallax {
-        height: 350px;
+        height: 170px;
         !important
     }
 }
