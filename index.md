@@ -20,7 +20,7 @@ tagline: Supporting tagline
             <div class="category-name-wrap post-el">
               <span class="bullet first-bullet"></span><a class="cate-name" href="#" title="{{ post.category }}">{{ post.category }}</a><span class="bullet last-bullet"></span>
             </div>
-            <h3 class="post-title post-el small"><a href="{{ BASE_PATH }}{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h3>
+            <h3 class="post-title post-el small"><a href="{{ BASE_PATH }}/{{ post.url }}" rel="bookmark" title="{{ post.title }}">{{ post.title }}</a></h3>
             <div class="meta-tags-wrap post-el">
               <span class="date-tags tags-el"><time datetime="{{ post.date | date_to_string }}">{{ post.date | date_to_string }}</time></span><span class="author-tags tags-el"><a href="#">Elyssa Macfarlane</a></span>
             </div>

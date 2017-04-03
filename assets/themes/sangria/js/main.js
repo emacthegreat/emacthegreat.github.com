@@ -2,6 +2,7 @@ $(document).ready(function() {
   // instagram feed
   var feed = new Instafeed({
       clientId: 'babb8453913c4c7f87f210172eed1166',
+      accessToken: '4044782518.babb845.cdfe6f09843d4f0f885c2882b9c161d5',
       get: 'user',
       userId: 'meditationsontech',
       limit: 7,
