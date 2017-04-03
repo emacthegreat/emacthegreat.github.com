@@ -552,6 +552,10 @@ header {
     position: relative;
     overflow: hidden;
     background-color: #fff;
+    background-image: url(/img/bg-coffee.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 .header-wrap.header-background-image .header-inner {
