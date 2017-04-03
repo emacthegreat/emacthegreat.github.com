@@ -18,4 +18,4 @@ Meditations on Tech is a technical diary filled with interviews focused on highl
 Elyssa is the Founder and Editor of Meditations on Tech.   While her background is in public relations and advising mid-to-large sized organizations on their communications strategies, she is known to break out a text editor and start coding and developing websites herself. When Elyssa isn’t situated in front of the computer, she loves cycling, surfing and exploring the great outdoors around British Columbia.
 
 # Contact
-Please visit our <a href="/contact.html">contact page</a> if you'd like to send a message to Meditations on Tech.
+Visit our <a href="/contact.html">contact page</a> if you'd like to send a message to Meditations on Tech's authors.
