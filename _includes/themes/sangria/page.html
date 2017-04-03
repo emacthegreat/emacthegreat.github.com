@@ -1,29 +1,21 @@
-<main class="container left-container">
-  <div class="row">
-    <div id="menu-target">
-      <ul>
-        {% assign pages_list = site.pages %}
-        {% assign group = 'navigation' %}
-        {% include JB/pages_list %}
-      </ul>
+<div class="ruby-page-wrap row clearfix no-sidebar tn-container about-width">
+  <div class="ruby-content-wrap tn-single-page col-xs-12">
+    <div class="about-page-inner">
+      <div class="about-heading">
+        <div class="thumb-wrap post-el">
+          <a href="{{ BASE_PATH }}" rel="bookmark" title="{{page.title}}">
+            {% if page.image %}
+            <img alt="{{page.title}}" class="attachment-tn_classic size-tn_classic wp-post-image" src="{{page.image}}">
+            {% endif %}
+          </a>
+        </div>
+        <div class="about-title post-title">
+          <h1>{{page.title}}</h1>
+        </div>
+      </div>
+      <div class="entry">
+        {{content}}
+      </div>
     </div>
-    <section class="sidebar col-md-5 col-sm-12 hidden-xs hidden-sm" style="background-image: url(img/sidebar-coffee.jpg)">
-      <span class="menu-trigger animated fadeInDown">
-        <span class="bar"></span>
-        <span class="bar"></span>
-        <span class="bar"></span>
-      </span>
-    </section><!-- end sidebar -->
-
-    <section class="col-md-7 col-sm-12 col-md-offset-5 main-content">
-      {{ content }}
-      <footer class="split-footer">
-          <a href="/">Latest Posts</a>
-          <i class="link-spacer"></i>
-          <a href="/about.html">About</a>
-          <i class="link-spacer"></i>
-          <a href="/readinglist.html">Reading List</a>
-      </footer>
-    </section><!-- main content -->
-  </div> <!--/row -->
-</main> <!-- /container -->
+  </div>
+</div>
