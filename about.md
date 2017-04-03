@@ -1,8 +1,9 @@
 ---
 layout: page
-title : About Me
+title : About Meditations
 header : Post Archive
 group: navigation
+image: about-elyssa.jpg
 ---
 {% include JB/setup %}
 
