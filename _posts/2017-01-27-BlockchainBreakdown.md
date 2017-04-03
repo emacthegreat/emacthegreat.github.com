@@ -1,6 +1,6 @@
 ---
 layout: post
-category: lessons
+category: articles
 title: "The Blockchain Breakdown"
 tagline: "hile heralded as being one of the newest innovations in global tech, I’ve found that many people struggle when they try to wrap their heads around the concept of blockchain technology."
 tags: [blockchain, fintech, decentralized, finance, technology, governance]
