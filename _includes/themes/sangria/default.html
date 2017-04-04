@@ -8,6 +8,17 @@
     {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
     <meta name="author" content="{{ site.author.name }}">
 
+    <!-- Meta tags -->
+    <meta property="og:site_name" content="{{ site.title }}"/>
+    <meta property="og:type" content="blog"/>
+    <meta property="og:title" content="{{ page.title }}"/>
+    <meta property="og:url" content="{{ site.production_url }}{{ page.url }}"/>
+    {% if page.path contains '_posts' %}
+    <meta property="og:image" content="/img/posts/{{page.image}}"/>
+    {% else %}
+    <meta property="og:image" content="/img/og-facebook.jpg"/>
+    {% endif %}
+
     <!-- Enable responsive viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
