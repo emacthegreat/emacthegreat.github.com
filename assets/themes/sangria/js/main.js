@@ -13,4 +13,8 @@ $(document).ready(function() {
               '</div>'
   });
   feed.run();
+
+  $('#tn-button-mobile-menu-open').click(function() {
+    $('body').toggleClass('open-menu-mobile');
+  });
 });
