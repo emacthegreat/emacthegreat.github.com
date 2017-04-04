@@ -14,9 +14,9 @@
     <meta property="og:title" content="{{ page.title }}"/>
     <meta property="og:url" content="{{ site.production_url }}{{ page.url }}"/>
     {% if page.path contains '_posts' %}
-    <meta property="og:image" content="/img/posts/{{page.image}}"/>
+    <meta property="og:image" content="{{ site.production_url }}img/posts/{{page.image}}"/>
     {% else %}
-    <meta property="og:image" content="/img/og-facebook.jpg"/>
+    <meta property="og:image" content="{{ site.production_url }}img/og-facebook.jpg"/>
     {% endif %}
 
     <!-- Enable responsive viewport -->

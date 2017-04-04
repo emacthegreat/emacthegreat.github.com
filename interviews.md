@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Meditations on Tech | Interesting people in tech worldwide
+title: Meditations on Tech | Interesting people in the tech world
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
