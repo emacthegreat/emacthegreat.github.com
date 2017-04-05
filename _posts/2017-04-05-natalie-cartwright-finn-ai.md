@@ -7,11 +7,13 @@ tags: [women, tech, interview, finn, ai]
 image: "nataliecartwright1.jpg"
 ---
 
-I’ve found that it isn’t unusual for people to underestimate the complexity behind building a chat bot. But designing the flow of a conversation, regardless of whether it’s b2b or b2c, is convoluted in terms of design and the need to personify. In other words, it’s difficult from a UX, development, and marketing standpoint.
+I’ve found that it isn’t unusual for people to underestimate the complexity behind building a chat bot. But designing the flow of a conversation, regardless of whether it’s one that is b2b or b2c, is convoluted in terms of design and the need to personify the technology. In other words, it’s difficult from a UX, development, and marketing standpoint.
 
-This is why, when I initially saw Nat speak as the co-founder and COO of Finn AI at a Machine Learning forum at science world, I was immediately intrigued by both her and the fintech’s business model. Finn works with banks around the world to advance their technological capabilities by allowing their customers to communicate more directly with a chat bot. Customers can simply text their question(s) to the bot and receive an immediate response without having to deal with a customer service line.
+This is why, when I initially saw Nat speak as the co-founder and COO of Finn AI at a Machine Learning forum at science world, I was immediately intrigued by both her and the fintech’s business model. Finn works with banks around the world to advance their technological capabilities by allowing their customers to communicate more directly with a chat bot. Customers can simply text their questions to the bot and receive an immediate response without having to deal with a customer service line.
 
-Nat has a calmness to her that is achieved from dealing with the waves of entrepreneurship. She is approachable, yet direct. I feel like it is these feats paired with a strong work ethic that have earned her recognition on Business in Vancouver’s Top 40 under Forty list and helped Finn AI be named top start up on the latest season of BNN’s Disruptors.
+The business has caught on with banks in a number of countries, which led to it being named the top start up on the most recent season of BNN's Disruptors.
+
+Nat has a calmness to her that very easy to talk to. She is approachable, yet direct. After running into each other a couple more times and discussing the ins and outs of Finn AI, I asked her to do an interview on MoT to showcase how the business has developed to where it is today.
 
 <center><img class="img-responsive" src="/img/posts/nataliecartwright2.jpg"></center>
 
