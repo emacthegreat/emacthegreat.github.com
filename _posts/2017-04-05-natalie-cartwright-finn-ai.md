@@ -2,7 +2,7 @@
 layout: post
 category: interviews
 title: "Nat Cartwright, Finn.ai"
-tagline: "Nat has a calmness to her that is achieved from dealing with the waves of entrepreneurship. She is approachable, yet direct."
+tagline: "Nat has a calmness to her that makes her very easy to talk to. She is approachable, yet direct."
 tags: [women, tech, interview, finn, ai]
 image: "nataliecartwright1.jpg"
 ---
