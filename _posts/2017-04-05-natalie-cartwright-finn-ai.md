@@ -11,7 +11,7 @@ I’ve found that it isn’t unusual for people to underestimate the complexity 
 
 This is why, when I initially saw Nat speak as the co-founder and COO of Finn AI at a Machine Learning forum at science world, I was immediately intrigued by both her and the fintech’s business model. Finn works with banks around the world to advance their technological capabilities by allowing their customers to communicate more directly with a chat bot. Customers can simply [text their questions to the bot](https://youtu.be/LgBf8uhAyxg) and receive an immediate response without having to deal with a customer service line.
 
-The business has caught on with banks in a number of countries, which led to it being named the top start up on the most recent season of BNN's Disruptors.
+The business has caught on with banks in a number of countries, which led to it being named the top start up on the most recent season of [BNN's Disruptors](http://betakit.com/vancouver-based-finn-ai-named-business-news-networks-top-disruptor/).
 
 Nat has a calmness to her that makes her very easy to talk to. She is approachable, yet direct. After running into each other a couple more times and discussing the ins and outs of Finn AI, I asked her to do an interview on MoT to showcase how the business has developed to where it is today.
 
