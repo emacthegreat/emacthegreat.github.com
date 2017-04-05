@@ -13,7 +13,7 @@ This is why, when I initially saw Nat speak as the co-founder and COO of Finn AI
 
 The business has caught on with banks in a number of countries, which led to it being named the top start up on the most recent season of BNN's Disruptors.
 
-Nat has a calmness to her that very easy to talk to. She is approachable, yet direct. After running into each other a couple more times and discussing the ins and outs of Finn AI, I asked her to do an interview on MoT to showcase how the business has developed to where it is today.
+Nat has a calmness to her that makes her very easy to talk to. She is approachable, yet direct. After running into each other a couple more times and discussing the ins and outs of Finn AI, I asked her to do an interview on MoT to showcase how the business has developed to where it is today.
 
 <center><img class="img-responsive" src="/img/posts/nataliecartwright2.jpg"></center>
 
