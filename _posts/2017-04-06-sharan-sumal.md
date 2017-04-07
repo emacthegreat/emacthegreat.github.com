@@ -9,9 +9,9 @@ image: "sharansumal1.jpg"
 
 I was extremely excited to connect with Sharan, as she is a UX specialist at Apply Digital and the head of product innovation at [Daily Hive](http://dailyhive.com/vancouver).
 
-In my opinion, UX is really a beast of its own nature. In order to be excellent at it you have to have an in-depth understanding of interaction design, development, and product management. As a result, it isn’t something you can very easily hand off to a junior and expect to see amazing results.
+In my opinion, UX is really a beast of its own nature. In order to be excellent at it you have to have an in-depth understanding of interaction design, development, and product management. As a result, the craft has an incredible impact on the company's ability to deliver on business results.
 
-When I’m speaking with Sharan, I always feel like we’re on the same page. We’ve both studied web development, we both love talking about Vancouver’s tech scene, and we both know the pain of working on amazing projects or being thrown into situations where you’re forced to think on your feet- but are bound by NDAs to not speak about them.
+When I’m speaking with Sharan, I always feel like we’re on the same page. We’ve both studied web development, we both love talking about Vancouver’s tech scene, and we both love working on awesome projects where we're forced to think on our feet.
 
 Between working as hard as she does, raising a son, and making time to be involved in Vancouver’s tech scene, Sharan is a hustler at heart. This is why I’m happy to have her showcased on Meditations on Tech.
 
