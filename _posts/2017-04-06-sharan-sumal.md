@@ -1,7 +1,7 @@
 ---
 layout: post
 category: articles
-title: "Meet Sharan Sumal"
+title: "Sharan Sumal, UX and Product Innovation"
 tagline: "Between working as hard as she does, raising a son, and making time to be involved in Vancouver’s tech scene, Sharan is a hustler at heart."
 tags: [women, tech, interview]
 image: "sharansumal1.jpg"
