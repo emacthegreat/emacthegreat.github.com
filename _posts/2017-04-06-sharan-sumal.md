@@ -2,12 +2,20 @@
 layout: post
 category: articles
 title: "Meet Sharan Sumal"
-tagline: ""
+tagline: "Between working as hard as she does, raising a son, and making time to be involved in Vancouver’s tech scene, Sharan is a hustler at heart."
 tags: [women, tech, interview]
 image: "sharansumal1.jpg"
 ---
 
+I was extremely excited to connect with Sharan, as she is a UX specialist at Apply Digital and the head of product innovation at Daily Hive. Right before I’m about to meet Sharan to discuss this interview, I get a request for a call that I need to take so I message her letting her know that I’ll be a bit late. She responds, “Hey, I thought our meeting was tomorrow?”.
 
+I look at my calendar. Sharan’s right. I purse my lips, look at the ceiling and exhale through my nose as I think “So this lady has two jobs and is raising a six year old while I’ve somehow managed to be late to  a meeting that doesn’t actually exist”. Cool. Nonetheless Sharan is amazing and works around my blunder to meet me after my call.
+
+In my opinion, UX is really a beast of its own nature. In order to be excellent at it you have to have an in-depth understanding of interaction design, development, and product management. As a result, it isn’t something you can very easily hand off to a junior and expect to see amazing results.
+
+When I’m speaking with Sharan, I always feel like we’re on the same page. We’ve both studied web development, we both love talking about Vancouver’s tech scene, and we both know the pain of working on amazing projects or being thrown into situations where you’re forced to think on your feet- but are bound by NDAs to not speak about them.
+
+Between working as hard as she does, raising a son, and making time to be involved in Vancouver’s tech scene, Sharan is a hustler at heart. This is why I’m happy to have her showcased on Meditations on Tech.
 
 <center><img class="img-responsive" src="/img/posts/sharansumal2.jpg"></center>
 
