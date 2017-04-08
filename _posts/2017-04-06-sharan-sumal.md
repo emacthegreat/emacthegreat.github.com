@@ -1,6 +1,6 @@
 ---
 layout: post
-category: articles
+category: interviews
 title: "Sharan Sumal, UX and Product Innovation"
 tagline: "Between working as hard as she does, raising a son, and making time to be involved in Vancouver’s tech scene, Sharan is a hustler at heart."
 tags: [women, tech, interview]
@@ -11,7 +11,7 @@ I was extremely excited to connect with Sharan, as she is a UX specialist at App
 
 In my opinion, UX is really a beast of its own nature. In order to be excellent at it you have to have an in-depth understanding of interaction design, development, and product management. It's difficult to simply hand off to someone who isnt' familliar with all of these concepts as UX has an incredible impact on the company's ability to deliver on business objectives.
 
-When I’m speaking with Sharan, I always feel like we’re on the same page. We’ve both studied web development, we both love talking about Vancouver’s tech scene, and we both love working on awesome projects where we're forced to think on our feet.
+When I’m speaking with Sharan, I always feel like we’re on the same page. We’ve both studied web development, we both love talking about Vancouver’s tech scene, and we bothget excited about working on projects where we're forced to think on our feet.
 
 Between working as hard as she does, raising a son, and making time to be involved in Vancouver’s tech scene, Sharan is a hustler at heart. This is why I’m happy to have her showcased on Meditations on Tech.
 
