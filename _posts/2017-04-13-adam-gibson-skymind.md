@@ -34,5 +34,5 @@ They aren’t hard if you hire globally and let people stay where they are. We a
 #### Can you describe your experience with Skymind at Y-combinator?
 YC was great for us. It was more of a “stamp of approval “ though. We didn’t listen to half of the advice from the partners (much of it is conflicting, which they tell you). We didn’t use  things like the demo day PR from TechCrunch. Instead we had a customer interview published in wall street CIO where our actual customer base reads.
 
-### Are there instances where you would advise a startup to avoid going through an accelerator?
+### Are there instances where you would advise a startup to avoie going through an accelerator?
 Yes. Understand what benefits the accelerator gives you. Don’t just blindly listen to what people tell you. Even while you’re *in* the accelerator focus on customers and users (this is what YC does which is great).
