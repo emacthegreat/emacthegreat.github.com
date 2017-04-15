@@ -14,7 +14,6 @@ As the co-founder and CTO of Skymind, Adam has some interesting experience under
 When I’m on the phone with Adam, I can already tell that he is an extremely effective person to be around. Everything he discusses is filled with purpose, and he never wastes time by overelaborating on and of the concepts or opinions that we discuss. He is to the point, while also being critical and honest.
 
 In the instance that you aren’t technical and don’t quite understand what a framework is or how Skymind operates, I recommend checking out this article [here](https://www.wired.com/2014/06/skymind-deep-learning/).
-
 ## Interview
 
 #### Tell me a bit about how you found yourself working in tech. When and how did you initially start programming?
