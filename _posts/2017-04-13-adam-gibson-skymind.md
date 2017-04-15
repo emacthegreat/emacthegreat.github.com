@@ -9,9 +9,9 @@ image: "adamgibson1.jpg"
 
 When Adam agreed to do an interview with MoT, I was psyched. He’s currently located in Tokyo and directing a large and diverse team of deep learning engineers- so I appreciated the time he was dedicating to doing an interview. Then I found out that he is the same age as me, and I was baffled.
 
-As the co-founder and CTO of Skymind, Adam has some interesting experience under his belt. At the age of 21 he dropped out of Michigan Tech to found his first start up. In 2014 he and Skymind Co-founder Chris Nicholson founded Skymind- a deep learning service for enterprise that employs deeplearning4j, a framework created by Adam. The business entered Y combinator’s Winter 2016 batch and has since acquired a variety of contracts from MNCs that you’ve likely heard of.
+As the co-founder and CTO of Skymind, Adam has some interesting experience under his belt. At the age of 21 he dropped out of Michigan Tech to found his first start up. In 2014 he and Chris Nicholson cofounded Skymind- a deep learning service for enterprise that employs deeplearning4j, a framework created by Adam. The business entered Y combinator’s Winter 2016 batch and has since acquired a variety of contracts from MNCs that you’ve likely heard of.
 
-When I’m on the phone with Adam, I can already tell that he is an extremely effective person to be around. Everything he discusses is filled with purpose, and he never wastes time by overelaborating on and of the concepts or opinions that we discuss. He is to the point, while also being critical and honest.
+When I’m on the phone with Adam, I can already tell that he is an effective person to be around. Everything he discusses is filled with purpose, where he never wastes time by overelaborating on the concepts and opinions that we discuss. He is to the point, while also being critical and honest.
 
 In the instance that you aren’t technical and don’t quite understand what a framework is or how Skymind operates, I recommend checking out this article [here](https://www.wired.com/2014/06/skymind-deep-learning/).
 ## Interview
