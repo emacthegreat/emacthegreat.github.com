@@ -2,7 +2,7 @@
 layout: post
 category: interviews
 title: "Adam Gibson"
-tagline: "I did a survey of the market and found that there were no deep learning tools in java. I had a decent background in ML at this point and figured I would build the tool I wanted for myself."
+tagline: "Most programming founders you hear about started when they were  11. I was just a competitive gamer."
 tags: [tech, interview, ai, artificial, intelligence, skymind, deep, learning]
 image: "adamgibson1.jpg"
 ---
