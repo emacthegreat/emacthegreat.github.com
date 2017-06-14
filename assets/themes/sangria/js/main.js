@@ -17,4 +17,11 @@ $(document).ready(function() {
   $('#tn-button-mobile-menu-open').click(function() {
     $('body').toggleClass('open-menu-mobile');
   });
+
+  $('.main-content-inner').masonry({
+    // options
+    itemSelector: '.masonry-el',
+    columnWidth: 300,
+    transitionDuration: '0.2s'
+  });
 });
