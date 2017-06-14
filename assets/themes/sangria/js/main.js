@@ -18,7 +18,7 @@ $(document).ready(function() {
     $('body').toggleClass('open-menu-mobile');
   });
 
-  $('.main-content-inner').masonry({
+  $('.ruby-content-wrap').masonry({
     // options
     itemSelector: '.masonry-el',
     columnWidth: 300,
