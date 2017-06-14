@@ -18,10 +18,11 @@ $(document).ready(function() {
     $('body').toggleClass('open-menu-mobile');
   });
 
-  // $('.ruby-content-wrap').masonry({
-  //   // options
-  //   itemSelector: '.masonry-el',
-  //   columnWidth: 300,
-  //   transitionDuration: '0.2s'
-  // });
+  $('.main-content-inner').masonry({
+    // options
+    itemSelector: '.masonry-el',
+    percentPosition: true,
+    columnWidth: '.col-sm-6',
+    transitionDuration: '0.2s'
+  });
 });
