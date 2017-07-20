@@ -2,7 +2,7 @@
 layout: post
 category: interviews
 title: "Sage, Technical Evangelist at Microsoft, Founder of Trendy Techie"
-tagline: "While hustling as a freelancer, Holy is well known in the tech community for her advocacy and community work through social media."
+tagline: "There is no such thing as a regular day as a Technical Evangelist, every day is different. And that's what I love about it"
 tags: [women, tech, interview]
 image: "sage_franch_trendy_techie_hololens.jpg"
 ---
