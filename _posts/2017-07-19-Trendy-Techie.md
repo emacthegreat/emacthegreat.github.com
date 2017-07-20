@@ -7,7 +7,7 @@ tags: [women, tech, interview]
 image: "sage_franch_trendy_techie_hololens.jpg"
 ---
 
-I first learned about Sage and her writing nearly a year ago. While she works for one of the largest tech companies in the world, she also runs a blog that is always covering the latest and greatest in trends, events and style in technology. When I initially approached Sage, I asked her why she started the site (which has now exploded). She explained that in 2014 she underwent a series of negative experiences that led her to question whether or not the discrimination was worth pursuing a career in computer science.  
+I first heard about Sage and her website nearly a year ago. While she works for one of the largest tech companies in the world, she also runs a blog that is always covering the latest and greatest in trends, events and style in technology. When I initially approached Sage, I asked her why she started the site that is focused on documenting not only her own personal narrative, but looks to be a resource to other women entering the tech industry. She explained that in 2014 she underwent a series of negative experiences that led her to question whether or not the discrimination was worth pursuing a career in computer science.  
 
 Like any millennial she took to the internet to find people who were writing what she wanted to read: stories about girls challenging these stereotypes and succeeding in technical roles without trying to "be one of the guys" or hide their femininity to fit in to the coding boys' club. 
 
