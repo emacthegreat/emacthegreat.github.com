@@ -7,6 +7,12 @@ tags: [women, tech, interview]
 image: "sage_franch_trendy_techie_hololens.jpg"
 ---
 
+I first learned about Sage and her writing nearly a year ago. While she works for one of the largest tech companies in the world, she also runs a blog that is always covering the latest and greatest in trends, events and style in technology. When I initially approached Sage, I asked her why she started the site (which has now exploded). She explained that in 2014 she underwent a series of negative experiences that led her to question whether or not the discrimination was worth pursuing a career in computer science.  
+
+Like any millennial she took to the internet to find people who were writing what she wanted to read: stories about girls challenging these stereotypes and succeeding in technical roles without trying to "be one of the guys" or hide their femininity to fit in to the coding boys' club. 
+
+"But the scene at the time was not like it is now, and I didn't find anyone who I could relate to", she explained. So rather than let it get her down, she dedicated herself to kcik-starting Trendy Techie to be the voice that she was looking for. Since then, she has garnered thousands of followers on social media, advised Prime Minister Trudeau on youth STEM initiatives, developed kick starter courses, and conducted intervviews with a variety of well known VCs and engineers in the field. I highly recommend jumping to her page at some point at ["https://trendytechie.ca/"]
+
 ### Can you tell me a bit about your background? When did you first learning about programming and how did you end up working in the tech industry?
 
 The first time I saw code was at a Computer Graphics camp at the University of Pennsylvania when I was in tenth grade. In the middle of animating our characters, the professor stopped us and showed us a script. When he compiled and ran it, a rendering of fire burst to life on the screen, and in that moment I knew I wanted to learn to program. I realized I'd been consuming software for a long time, but that it was much more powerful a position to be able to create the software itself instead of just being an end user. So when I went back to school in the fall I took my first Computer Science course, and I've never looked back. 
