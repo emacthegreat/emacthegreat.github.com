@@ -11,7 +11,7 @@ I first learned about Sage and her writing nearly a year ago. While she works fo
 
 Like any millennial she took to the internet to find people who were writing what she wanted to read: stories about girls challenging these stereotypes and succeeding in technical roles without trying to "be one of the guys" or hide their femininity to fit in to the coding boys' club. 
 
-"But the scene at the time was not like it is now, and I didn't find anyone who I could relate to", she explained. So rather than let it get her down, she dedicated herself to kcik-starting Trendy Techie to be the voice that she was looking for. Since then, she has garnered thousands of followers on social media, advised Prime Minister Trudeau on youth STEM initiatives, developed kick starter courses, and conducted intervviews with a variety of well known VCs and engineers in the field. I highly recommend jumping to her page at some point at [(https://trendytechie.ca/)]
+"But the scene at the time was not like it is now, and I didn't find anyone who I could relate to", she explained. So rather than let it get her down, she dedicated herself to kcik-starting Trendy Techie to be the voice that she was looking for. Since then, she has garnered thousands of followers on social media, advised Prime Minister Trudeau on youth STEM initiatives, developed kick starter courses, and conducted intervviews with a variety of well known VCs and engineers in the field. I highly recommend jumping to her page at some point [here](https://trendytechie.ca/)
 
 ### Can you tell me a bit about your background? When did you first learning about programming and how did you end up working in the tech industry?
 
