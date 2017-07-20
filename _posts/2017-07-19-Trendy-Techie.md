@@ -4,7 +4,7 @@ category: interviews
 title: "Sage, Founder of Trendy Techie"
 tagline: "While hustling as a freelancer, Holy is well known in the tech community for her advocacy and community work through social media."
 tags: [women, tech, interview]
-image: "holy1.jpg"
+image: "sage_franch_trendy_techie_hololens.jpg"
 ---
 
 ### Can you tell me a bit about your background? When did you first learning about programming and how did you end up working in the tech industry?
