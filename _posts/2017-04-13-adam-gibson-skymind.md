@@ -1,7 +1,7 @@
 ---
 layout: post
 category: interviews
-title: "Adam Gibson"
+title: "Adam Gibson, Skymind"
 tagline: "Most programming founders you hear about started when they were  11. I was just a competitive gamer."
 tags: [tech, interview, ai, artificial, intelligence, skymind, deep, learning]
 image: "adamgibson1.jpg"
