@@ -2,7 +2,7 @@
 layout: post
 category: interviews
 title: "Ajung Moon, Founder of ORI"
-tagline: "I have been fascinated by the question of “What should a robot/AI do?” in my research because it has is a basis of so many ethical issues that are uniquely raised by the added machine autonomy"
+tagline: "I have been fascinated by the question of “What should a robot/AI do?” in my research because it is the basis of so many ethical issues that are uniquely raised by the added machine autonomy"
 tags: [women, tech, interview]
 image: "ajung4.JPG"
 ---
