@@ -552,7 +552,7 @@ header {
     position: relative;
     overflow: hidden;
     background-color: #fff;
-    background-image: url(/img/bg-oceanmist.jpg);
+    background-image: url(/img/bg-sparkle.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -4522,11 +4522,6 @@ textarea:hover, textarea:focus {
 
 body {
     background-color: #f7f7f7;
-    background-repeat: no-repeat;
-    background-size: inherit;
-    background-attachment: fixed;
-    background-position: left top;
-    background-image: url(/img/bg-page.jpg)
 }
 #navigation {
     font-family: Lato;
