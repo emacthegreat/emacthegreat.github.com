@@ -4522,11 +4522,11 @@ textarea:hover, textarea:focus {
 
 body {
     background-color: #f7f7f7;
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-size: inherit;
     background-attachment: fixed;
     background-position: left top;
-    background-image: url(/img/bg-page.png)
+    background-image: url(/img/bg-page.jpg)
 }
 #navigation {
     font-family: Lato;
