@@ -1,6 +1,10 @@
 ---
-title: A Year Deep with Meditations on Tech
-layout: default
+layout: post
+category: articles
+title: "A Year Deep with Meditations on Tech"
+tagline: "Most programming founders you hear about started when they were  11. I was just a competitive gamer."
+tags: [tech, meditations, articles, artificial, intelligence, stem]
+image: "ayeardeep.jpg"
 ---
 
 Well over a year ago I developed the idea for a tech site when I had left a job to pursue and education in programming. I decided to make it my side project and mapped out an outline for a year long plan- numbering the amount of meetings I wanted to set up and interviews I wanted to develop and publish from those relationships. 
