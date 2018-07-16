@@ -9,7 +9,7 @@ image: "ayeardeep.jpg"
 
 Well over a year ago I developed the idea for a tech site to showcase the kind of conversations that I wanted to bring to life when I had left a job to pursue and education in programming. I decided to make it my side project, and mapped out an outline for a year long plan- numbering the amount of meetings I wanted to set up and interviews I wanted to develop and publish from those relationships. 
 
-The great news is that I met those goals, which I had scoped to last throughout the year, within the first quarter and a half. I connected with way more people than I had anticipated, and out of the ones who I set up an interview with, only one didn't follow through.	In reflection, I can say that starting Meditations on Tech is one of the best passion projects that I have ever started. I was very particular with who I wanted to showcase on the project, and I feel like this was the right choice.
+The great news is that I met those goals, which I had scoped to last throughout the year, within the first quarter and a half. I connected with way more people than I had anticipated, and out of the ones who I set up an interview with, only one didn't follow through.	In reflection, I can say that starting Meditations on Tech is one of the best passion projects that i could have conceptualized, and the time I invested paid off it a wide variety of ways. I was very particular with who I wanted to showcase on the project, and I feel like this was the right choice.
 
 MoT gave me a great reason to connect with some of the people I wanted to meet in the field in a meaningful way, where they were often equally excited to discuss their work and story. But that’s the positive side of things.
 
