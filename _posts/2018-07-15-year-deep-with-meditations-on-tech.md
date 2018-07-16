@@ -17,4 +17,4 @@ So while I loved bringing Meditations on Tech to life, the focus of this next an
 
 What this means is that a) I’ll be spending a lot more time on my Github account working on this website’s UX (did  you notice I already changed the background?), b) I’ll be working to find projects and people that with align the Meditations on Tech values and brand (see on the ABOUT page), and c) I’m going to be sharing my own thoughts and insights as opposed to relying on interviews alone (because guess what, I’m interesting).
 
-So with that said, I hope that I can challenge you- or someone else- to learn something new about the tech world, or at least think differently about a particular industry or concept. So with that said, stay tuned.
+So with that said, I hope that I can challenge you - or someone else - to learn something new about the tech world, or at least think differently about a particular industry or concept. So with that said, stay tuned.
