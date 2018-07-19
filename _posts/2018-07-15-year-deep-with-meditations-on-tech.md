@@ -2,7 +2,7 @@
 layout: post
 category: articles
 title: "A Year Deep with Meditations on Tech"
-tagline: "Most programming founders you hear about started when they were  11. I was just a competitive gamer."
+tagline: "A reflection from the Editor"
 tags: [tech, meditations, articles, artificial, intelligence, stem]
 image: "ayeardeep.jpg"
 ---
