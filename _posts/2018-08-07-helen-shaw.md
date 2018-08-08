@@ -19,7 +19,7 @@ By the time I left Unbounce, I managed the company’s 50 largest advertising ag
 Now I run my own business, splitting my time between art direction and CX consulting.
 
 #### We recently discussed how businesses are moving towards the subscription model for services as opposed to providing a lump sum price and deliverable, such as in the case of Adobe’s product offerings. Do you think this trend will continue, and what will be the impact from a customer retention stand point?
-The trend will definitely continue. Year over year, a third more companies are using SaaS technology and almost a half of US businesses rely exclusively on SaaS platforms (source). 
+The trend will definitely continue. Year over year, a third more companies are using SaaS technology and almost a half of US businesses rely exclusively on SaaS platforms. 
 You asked about impact on retention. With SaaS, trying a new tech solution is easier, but this also means leaving a tech solution is easier! The tendency in SaaS is toward churn, but it can cost up to 25 times as much to acquire a new customer than to keep a current one so it just makes good business sense to focus on retaining existing customers. Good SaaS solutions result in an elevated customer experience for the end user. 
 
 #### How has your time in the tech industry shaped your overall business practice and perspective?
