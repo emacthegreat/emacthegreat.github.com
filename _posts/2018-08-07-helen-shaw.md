@@ -4,7 +4,7 @@ category: interviews
 title: "Helen Shaw"
 tagline: "With SaaS, trying a new tech solution is easier, but this also means leaving a tech solution is easier!"
 tags: [women, tech, interview, creative, startup]
-image: "meditations-final.jpg"
+image: "HelenShaw.jpg"
 ---
 
 To be honest, I can’t recall how Helen and I initially connected- but I know we somehow wound up following each other on Instagram while she was still working for one of the many start ups here in Vancouver. Through social media I saw that she was always doing amazing and creative things, getting featured on the Pantone IG account, giving talks at Facebook, providing meaningful advocacy for women in tech…but most of all she was so thoughtful with her aesthetic and everything that she externalized to the world, I loved her brand.
