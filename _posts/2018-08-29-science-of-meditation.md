@@ -9,7 +9,7 @@ image: "Screen Shot 2018-08-29 at 7.54.52 PM.png"
 
 Picture someone who regularly practices meditation and I probably don’t look like them. Half the time I’m wearing Vans, a tee-shirt and a leather jacket to head to some bar on Main St, and the other half i’m dressed in some version of a business casual outfit. I probably don’t really act like someone who regularly engages in the practice either. I’m relatively blunt and wouldn’t be caught dead reading a Yoga magazine (not because I have anything against these types of publications, but because I’m rarely interested in them and would probably rather read Wired).
 
-That said, there’s a reason I named this site Meditations on Tech. The definition of the word Meditation doesn’t refer to the formal practice. Rather, it’s “a written or spoken discourse expressing considered thoughts on a subject”. Whatever.
+That said, there’s a reason why I named this site Meditations on Tech. The definition of the word Meditation doesn’t refer to the formal practice. Rather, it’s “a written or spoken discourse expressing considered thoughts on a subject”. That, along with Marcus Aurelius' book Meditation, made the site's name an easy decision.
 
 With that said, meditation has been in my life since I was little as both my parents are solid practitioners, though I only started to engage in it on a regular basis just short of two years ago. It didn’t take much, or long, to get me hooked and now I’d say I typically practice it on a daily basis. It became a regular item for my daily to-do list, and I found it extremely beneficial for alleviating the number of stresses and hurdles life tends to throw at oneself which, let’s face it, everyone encounters.
 
