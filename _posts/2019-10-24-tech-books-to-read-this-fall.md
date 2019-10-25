@@ -20,4 +20,4 @@ I was extremely happy to have received this as a gift for my 29th Birthday and o
 
 #### 3) The Myth of the Strong Leader in the Modern Age
 
-Whether it’s meals or books, I always like trying to save best for last. This book is famous for summarizing that leadership is NOT a dichotomy of the strong or resilient versus the weak. It challenges how we question leaders and what contributes to people or citizens viewing them with such authority. Hint: It turns out that despite what we think, it isn’t always the ones who appear the strongest, resilient, or unemotional who win.
+I always like trying to save best for last. This book is famous for summarizing that leadership is NOT a dichotomy of the strong or resilient versus the weak. It challenges how we question leaders and what contributes to people or citizens viewing them with such authority. Hint: It turns out that despite what we think, it isn’t always the ones who appear the strongest, resilient, or unemotional who win.
