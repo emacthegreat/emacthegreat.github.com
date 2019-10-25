@@ -4,7 +4,7 @@ category: articles
 title: "Tech Books to Read this Fall"
 tagline: "First and foremost, I’m excited to be sharing the work in Meditations on Tech with you."
 tags: [tech books, technology, Fall 2019 books, technology books to read, tech books to read fall 2019]
-image: "Fall Book List.jpg"
+image: "Fall Book List the worst formatting.jpg"
 ---
 Fall is officially here and with the dark and cold weather striding onto the scene faster than WeWork’s fall from unicorn to borderline bankruptcy, I feel like it isn’t unreasonable to ask for a raise if you have to start your commute to work earlier than 7:55am these days.
 Jokes aside, cold weather === a lot more time indoors. One plus to this is that you (ahem, *I) finally have the opportunity to spend more time reading all the books you said you would during the summer time without experiencing the extreme FOMO from not being outside exercising in the sun or drinking wine on a patio with friends instead.
