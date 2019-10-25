@@ -9,7 +9,7 @@ image: "Fall Book List the worst formatting.jpg"
 Fall is officially here and with the dark and cold weather striding onto the scene faster than WeWork’s fall from unicorn to borderline bankruptcy, I feel like it isn’t unreasonable to ask for a raise if you have to start your commute to work earlier than 7:55am these days.
 Jokes aside, cold weather === a lot more time indoors. One plus to this is that you (ahem, *I) finally have the opportunity to spend more time reading all the books you said you would during the summer time without experiencing the extreme FOMO from not being outside exercising in the sun or drinking wine on a patio with friends instead.
 Every quarter or so I like to make a list of books I want to read through. It keeps me accountable and I always promise myself that I won’t start the next one until I crush the one ahead of it. I’m certainly guilty of having multiple books on the go at once, but I find that reading one book at a time ensures that I absorb the way more value while simultaneously training my ability to focus on one thing at a time. 
-As such, here is the list of books i’ll be reading over Q4 of this year:
+As such, here is the list of books i’ll be reading over the next few months of this year:
 
 #### 1) We Are the Nerds:
 
